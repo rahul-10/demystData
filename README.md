@@ -15,7 +15,7 @@ Command to start project: `npm start`
 Added few unit tests only because of time crunch.<br>
 Command to run test: `npm test`
 
-## Running the Docker Container
+## Running using the Docker
 
 1. `docker build -t demystdata .`
 2. `docker run -it --rm demystdata`
